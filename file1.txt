@@ -21,3 +21,4 @@ reset
 >>>>>>> reset
 
 feature1
+gitClone 
