@@ -25,3 +25,4 @@ try to push to origin main
 
 
 try4
+git rm --cached
