@@ -23,6 +23,4 @@ main
 from origin main
 try to push to origin main
 
-try3
-try4
 
