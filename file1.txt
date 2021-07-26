@@ -3,4 +3,8 @@ new content
 aaa 
 bbb 
 rebase 
+<<<<<<< HEAD
 content from ain 
+=======
+content from feature branch 
+>>>>>>> 8088fde (update  from feature branch)
