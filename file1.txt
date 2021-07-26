@@ -29,3 +29,4 @@ try to push to origin main
 
 try4
 git rm 45
+git merge feature1 --no--ff
