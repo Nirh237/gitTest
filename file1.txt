@@ -28,4 +28,4 @@ try to push to origin main
 
 
 try4
-git rm 
+git rm 4
