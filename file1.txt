@@ -3,12 +3,4 @@ new content
 aaa 
 bbb 
 rebase 
-<<<<<<< HEAD
-<<<<<<< HEAD
-content from ain 
-=======
-content from feature branch 
->>>>>>> 8088fde (update  from feature branch)
-=======
-content from feature branch 
->>>>>>> feature
+
