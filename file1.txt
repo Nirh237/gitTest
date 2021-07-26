@@ -20,4 +20,4 @@ content from feature branch
 reset 
 >>>>>>> reset
 
-feature2
+feature1
