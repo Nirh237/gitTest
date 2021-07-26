@@ -20,3 +20,4 @@ reset
 
 feature1
 main
+from origin main
