@@ -21,4 +21,8 @@ reset
 feature1
 main
 from origin main
+<<<<<<< HEAD
 try to push to origin main
+=======
+try to push from main to temote after remote update
+>>>>>>> 7f00534700f9458255872841da595354db69276a
