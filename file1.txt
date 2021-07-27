@@ -37,3 +37,6 @@ git merge feature1 --no--ff
 change from remote repo - git fetch
 change from remote repo - git pull
 
+
+change from local repo
+
