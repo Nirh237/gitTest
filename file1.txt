@@ -36,4 +36,6 @@ git merge feature1 --no--ff
 15
 change from remote repo - git fetch
 change from remote repo - git pull
+change from remote repo - git pull2
+
 
